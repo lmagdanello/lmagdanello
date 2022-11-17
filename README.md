@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Araujo</h1>
-<h3 align="center">A passionate Back-end Dev and HPC SysAdmin from Brazil</h3>
+<h3 align="center">A passionate Backend Developer and HPC SysAdmin from Brazil</h3>
 
 - 🔭 I’m currently working on **Atos**!
 
