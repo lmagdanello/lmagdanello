@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Leonardo Araujo</h1>
-<h3 align="center">A passionate Backend Developer and HPC SysAdmin from Brazil</h3>
+<h3 align="center">Back-End Developer and HPC SysAdmin from Brazil</h3>
 
 - 🔭 I’m currently working on **Atos**!
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 💬 Ask me about **HPC, Shell, Linux, Python!**
-
 - 📫 How to reach me? [Gmail](mailto:lmagdanello40@gmail.com)
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/magdanello/)
-
-- ⚡ Fun fact **I love DayZ**
 
 ---
 <h3 align="left">Connect with me:</h3>
