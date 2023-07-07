@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Leonardo Araujo</h1>
-<h3 align="center">Back-End Developer and HPC SysAdmin from Brazil</h3>
+<h1 align="center">Olá! 👋, Me chamo Leonardo Araujo</h1>
+<h3 align="center">Desenvolvedor e Analista de Sistemas</h3>
 
-- 🔭 I’m currently working on **Atos**!
+- 🔭 No momento, atuando na **Luizalabs**!
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 Realizando o Mestrado em Ciência da Computação na **UNICAMP**
 
-- 📫 How to reach me? [Gmail](mailto:lmagdanello40@gmail.com)
+- 📫 Como me contatar? [Gmail](mailto:lmagdanello40@gmail.com)
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/magdanello/)
+- 📄 Saiba mais sobre mim: [LinkedIn](https://www.linkedin.com/in/magdanello/)
 
 ---
 <h3 align="left">Connect with me:</h3>
