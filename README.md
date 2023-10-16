@@ -1,27 +1,71 @@
-<h1 align="center">Olá! 👋, Me chamo Leonardo Araujo</h1>
-<h3 align="center">Desenvolvedor e Analista de Sistemas</h3>
+<h1 align="center">Olá! 👋, Sou Leonardo Magdanello Araujo</h1>
+<h3 align="center">👨‍💻💡 Desenvolvedor e entusiasta de Ciência da Computação.</h3>
 
-- 🔭 No momento, atuando na **Luizalabs**!
 
-- 🌱 Realizando o Mestrado em Ciência da Computação na **UNICAMP**
+- 🌐 Analista e Desenvolvedor de Sistemas com anos de experiência no setor de Computação de Alto Desempenho,
 
-- 📫 Como me contatar? [Gmail](mailto:lmagdanello40@gmail.com)
+- 🔭 No momento, estou trabalhando como Desenvolvedor Pleno na [Luizalabs!](https://www.linkedin.com/company/luizalabs/)
 
-- 📄 Saiba mais sobre mim: [LinkedIn](https://www.linkedin.com/in/magdanello/)
+- 🌱 Realizando o Mestrado em Ciência da Computação na [UNICAMP](https://ic.unicamp.br/),
+
+- ✍️ Estou começando o meu blog no [Medium](https://medium.com/@developer_leonardo), deixe seu follow!
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+Working on...
+<!-- BLOG-POST-LIST:END -->
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/magdanello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magdanello/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/leonardo-magdanello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="leonardo-magdanello" height="30" width="40" /></a>
+<p align="center">
+<h3>Contatos:</h3>
+
+<a href="https://linkedin.com/in/magdanello" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
+"/></a>
+<a href = "mailto:lmagdanello40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/developer_leonardo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
+" alt="developer_leonardo" /></a>
+<a href="https://medium.com/@developer_leonardo" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white
+" alt="@developer_leonardo"/></a>
 </p>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lmagdanello&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmagdanello&show_icons=true&locale=en&layout=compact&theme=dark" width="400">
+</p>
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmagdanello&show_icons=true&locale=en&layout=compact" alt="lmagdanello" /></p>
 
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lmagdanello&show_icons=true&locale=en" alt="lmagdanello" /></p>
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
+" alt="Linux">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white
+" alt="Kubernetes">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white
+" alt="Ansible">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white" alt="Vagrant">
+  </a>
+</p>
+
+![Snake animation](https://github.com/seu-usuário-aqui/lmagdanello/blob/output/github-contribution-grid-snake.svg)
