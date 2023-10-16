@@ -23,9 +23,9 @@ Working on...
 <a href="https://linkedin.com/in/magdanello" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
 "/></a>
 <a href = "mailto:lmagdanello40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/developer_leonardo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
+<a href="https://instagram.com/developer_leonardo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 " alt="developer_leonardo" /></a>
-<a href="https://medium.com/@developer_leonardo" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white
+<a href="https://medium.com/@developer_leonardo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white
 " alt="@developer_leonardo"/></a>
 </p>
 
@@ -68,4 +68,4 @@ Working on...
   </a>
 </p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/lmagdanello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lmagdanello/lmagdanello/blob/output/github-contribution-grid-snake.svg)
