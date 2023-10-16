@@ -20,13 +20,10 @@ Working on...
 <p align="center">
 <h3>Contatos:</h3>
 
-<a href="https://linkedin.com/in/magdanello" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
-"/></a>
+<a href="https://linkedin.com/in/magdanello"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a href = "mailto:lmagdanello40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/developer_leonardo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
-" alt="developer_leonardo" /></a>
-<a href="https://medium.com/@developer_leonardo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white
-" alt="@developer_leonardo"/></a>
+<a href="https://instagram.com/developer_leonardo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@developer_leonardo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" target="_blank"></a>
 </p>
 
 ---
@@ -49,19 +46,16 @@ Working on...
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
-" alt="Linux">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white
-" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
   </a>
   <a>
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white
-" alt="Ansible">
+    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
   </a>
   <a>
     <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white" alt="Vagrant">
