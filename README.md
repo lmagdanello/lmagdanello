@@ -64,8 +64,5 @@ Working on...
 
 ---
 
-<div>
-
-    ![Snake animation](https://github.com/lmagdanello/lmagdanello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lmagdanello/lmagdanello/blob/output/github-contribution-grid-snake.svg)
     
-</div>
