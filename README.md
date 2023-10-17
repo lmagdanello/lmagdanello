@@ -63,6 +63,3 @@ Working on...
 </p>
 
 ---
-
-![Snake animation](https://github.com/lmagdanello/lmagdanello/blob/output/github-contribution-grid-snake.gif)
-    
