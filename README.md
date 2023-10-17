@@ -29,7 +29,7 @@ Working on...
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lmagdanello&show_icons=true&theme=dark" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=lmagdanello&show_icons=true&theme=dark" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmagdanello&show_icons=true&locale=en&layout=compact&theme=dark" width="400">
 </p>
 
