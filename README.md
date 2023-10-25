@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[![Leonardo Magdanello Medium](https://github-readme-medium.vercel.app/?username=developer_leonardo&limit=2&bg=red&text=green)](https://medium.com/@developer_leonardo)
+[![Leonardo Magdanello Medium](https://github-readme-medium.vercel.app/?username=developer_leonardo&limit=3)](https://medium.com/@developer_leonardo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
