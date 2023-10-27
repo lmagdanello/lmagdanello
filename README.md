@@ -12,7 +12,7 @@
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --> 
 [![Leonardo Magdanello Medium](https://github-readme-medium.vercel.app/?username=developer_leonardo&limit=3)](https://medium.com/@developer_leonardo)
 <!-- BLOG-POST-LIST:END -->
 
@@ -25,6 +25,10 @@
 <a href="https://instagram.com/developer_leonardo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@developer_leonardo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" target="_blank"></a>
 </p>
+
+---
+
+[![@lmagdanello's Holopin badges!](https://holopin.me/lmagdanello)](https://holopin.io/@lmagdanello)
 
 ---
 
