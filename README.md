@@ -10,6 +10,7 @@
 
 - ✍️ Estou começando o meu blog no [Medium](https://medium.com/@developer_leonardo), deixe seu follow!
 
+---
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START --> 
@@ -67,3 +68,7 @@
 </p>
 
 ---
+
+### Bye!
+
+![Bye bye!](https://i.pinimg.com/736x/56/07/2e/56072efe7a9e3eea52b5052d59a58f9c.jpg)
