@@ -12,10 +12,9 @@
 
 ---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START --> 
-[![Leonardo Magdanello Medium](https://github-readme-medium.vercel.app/?username=developer_leonardo&limit=3)](https://medium.com/@lmagdanello)
-<!-- BLOG-POST-LIST:END -->
+### Blogs Posts
+
+[![My Medium story](@lmagdanello&index=0)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@lmagdanello&index=0&source=medium)](#)
 
 ---
 <p align="center">
