@@ -4,7 +4,7 @@
 
 - 🌐 Analista e Desenvolvedor de Sistemas com anos de experiência no setor de Computação de Alto Desempenho,
 
-- 🔭 No momento, estou trabalhando como Desenvolvedor Pleno na [Luizalabs!](https://www.linkedin.com/company/luizalabs/)
+- 🔭 No momento, estou trabalhando como Desenvolvedor no R&D na [Eviden!](https://www.linkedin.com/company/eviden/)
 
 - 🌱 Realizando o Mestrado em Ciência da Computação na [UNICAMP](https://ic.unicamp.br/),
 
@@ -28,11 +28,6 @@
 </p>
 
 ---
-
-[![@lmagdanello's Holopin badges!](https://holopin.me/lmagdanello)](https://holopin.io/@lmagdanello)
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lmagdanello&show_icons=true&theme=dark" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmagdanello&show_icons=true&locale=en&layout=compact&theme=dark" width="400">
@@ -68,7 +63,3 @@
 </p>
 
 ---
-
-### Bye!
-
-![Bye bye!](https://i.pinimg.com/736x/56/07/2e/56072efe7a9e3eea52b5052d59a58f9c.jpg)
