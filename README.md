@@ -14,7 +14,7 @@
 
 ### 📝 Blogs Posts - [@lmagdanello](https://medium.com/@lmagdanello)
 
-[![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@lmagdanello&index=2&source=medium)](#)
+[![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@lmagdanello&index=0&source=medium)](#)
 
 ---
 <p align="center">
