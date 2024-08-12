@@ -2,13 +2,9 @@
 <h3 align="center">👨‍💻💡 Desenvolvedor e entusiasta de Ciência da Computação.</h3>
 
 
-- 🌐 Analista e Desenvolvedor de Sistemas com anos de experiência no setor de Computação de Alto Desempenho,
+- 🌐 Analista e Desenvolvedor de Sistemas com anos de experiência no setor de Computação de Alto Desempenho e Computação na Nuvem,
 
-- 🔭 No momento, estou trabalhando como Desenvolvedor no R&D na [Eviden!](https://www.linkedin.com/company/eviden/)
-
-- 🌱 Realizando o Mestrado em Ciência da Computação na [UNICAMP](https://ic.unicamp.br/),
-
-- ✍️ Estou começando o meu blog no [Medium](https://medium.com/@developer_leonardo), deixe seu follow!
+- 🔭 No momento, estou trabalhando como Desenvolvedor na área de Pesquisa e Desenvolvimento da [Eviden!](https://www.linkedin.com/company/eviden/)
 
 ---
 
