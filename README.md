@@ -7,7 +7,7 @@
 
 - 💼📊 Atualmente, estou imerso na Computação de Alto Desempenho, trabalhando como Desenvolvedor na área de Pesquisa e Desenvolvimento da [Eviden!](https://www.linkedin.com/company/eviden/).
   
-- 🌐 Com anos de experiência em sistemas Linux, Python, contêineres e DevOps, navego pelos mares da tecnologia em busca de soluções inovadoras.
+- 🌐 Com anos de experiência como DevOps, atuando com sistemas Linux, HPC, IaC, SaaS, navego pelos mares da tecnologia em busca de soluções inovadoras.
 
 - 🔭 No momento, estou contribuindo para o [Bluebanquise](https://github.com/bluebanquise/bluebanquise) e outras soluções de código aberto, ampliando seus horizontes e funcionalidades.
 
