@@ -43,9 +43,7 @@
 
   <ul style="text-align: left; max-width: 800px; margin: auto;">
     <p>R&D developer for Smart Management Center (SMC), which provides a solution for deploying, updating, maintaining and managing software of HPC systems of up to 1,200 nodes with very low technical requirements on daily administration tasks</p>
-    <p>Core contributor to BlueBanquise open-source project</p>
   </ul>
-
   <p><strong>Tools I chew on a daily basis:</strong> <code>Ansible</code>, <code>Python</code>, <code>Go</code>, <code>Docker</code>, <code>Linux</code>, <code>Jenkins</code>, <code>Git</code>, <code>Podman</code></p>
 
   <hr style="border: none; border-top: 1px dashed #444; width: 80%; margin: 30px auto;">
@@ -54,6 +52,8 @@
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=lmagdanello&show_icons=true&theme=dark&border_color=B22222&title_color=FFFFFF&icon_color=B22222" width="400">
+  </p>
+  <p>    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmagdanello&layout=compact&theme=dark&border_color=B22222&title_color=FFFFFF" width="400">
   </p>
 
