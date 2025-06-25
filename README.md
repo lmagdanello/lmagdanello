@@ -42,8 +42,8 @@
   <h4>💼 Currently at <a href=https://eviden.com/>Eviden</a></h4>
 
   <ul style="text-align: left; max-width: 800px; margin: auto;">
-    <li>R&D developer for Smart Management Center (SMC), which provides a solution for deploying, updating, maintaining and managing software of HPC systems of up to 1,200 nodes with very low technical requirements on daily administration tasks</li>
-    <li>Core contributor to BlueBanquise open-source project</li>
+    <p>R&D developer for Smart Management Center (SMC), which provides a solution for deploying, updating, maintaining and managing software of HPC systems of up to 1,200 nodes with very low technical requirements on daily administration tasks</p>
+    <p>Core contributor to BlueBanquise open-source project</p>
   </ul>
 
   <p><strong>Tools I chew on a daily basis:</strong> <code>Ansible</code>, <code>Python</code>, <code>Go</code>, <code>Docker</code>, <code>Linux</code>, <code>Jenkins</code>, <code>Git</code>, <code>Podman</code></p>
