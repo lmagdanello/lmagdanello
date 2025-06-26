@@ -1,7 +1,5 @@
 <div align="center" style="background-color:#1c1c1c; color:#e4dcd2; font-family:'Courier New', monospace; padding:30px; border: 6px double #6a0f15; border-radius: 12px; box-shadow: 0 0 20px rgba(0,0,0,0.8); max-width: 1000px; margin: auto;">
 
-  <img src="./images/Image_fx.jpg" alt="Leonardo Magdanello Noir Banner" style="width:100%; border-bottom: 4px solid #6a0f15; margin-bottom: 20px; border-radius: 4px;"/>
-
   <h1 style="color:#ffe4e1; letter-spacing: 2px; text-transform: uppercase;">Leonardo Magdanello Araujo</h1>
   <h3 style="color:#aaaaaa; font-weight:normal;">Senior DevOps Engineer & HPC Specialist</h3>
 
