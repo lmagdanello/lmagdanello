@@ -78,7 +78,4 @@
 
 ---
 
-  <p style="margin-top: 40px; font-size: 0.9em; color: #888;">
-    🐀 Mice to Meet you.
-  </p>
 </div>
